@@ -1,5 +1,4 @@
 # cybersecurity-portfolio
-portfolio
 # Javon Wright - Cybersecurity Portfolio
 
 ## 👋 About Me
